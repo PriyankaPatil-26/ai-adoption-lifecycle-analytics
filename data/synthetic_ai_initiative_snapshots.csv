@@ -1,0 +1,52 @@
+SnapshotDate,InitiativeID,InitiativeName,BusinessArea,AIStatus,LifecycleStatus,HealthStatus,PlannedCompletionDate,ActualCompletionDate,OwnerGroup,EstimatedValue,Priority
+2026-01-31,SYN-001,Atlas Service Assistant,Operations,AI Enabled,Active,On Track,2026-06-30,,Automation Group,185000,High
+2026-01-31,SYN-002,Northstar Cost Insights,Finance,Non-AI,Active,At Risk,2026-05-31,,Finance Analytics,145000,High
+2026-01-31,SYN-003,Orion Demand Forecast,Supply Chain,Non-AI,Active,On Track,2026-09-30,,Planning Group,220000,Medium
+2026-01-31,SYN-004,Beacon Knowledge Hub,People Services,Under Review,Proposed,On Track,2026-08-31,,People Analytics,95000,Low
+2026-01-31,SYN-005,Quartz Quality Monitor,Operations,AI Enabled,Done,On Track,2026-01-31,2026-01-24,Quality Group,130000,Medium
+2026-01-31,SYN-006,Meridian Client Insights,Customer Experience,Non-AI,On Hold,At Risk,2026-10-31,,Experience Group,170000,Medium
+2026-01-31,SYN-007,Harbor Risk Review,Legal,Non-AI,Proposed,On Track,2026-11-30,,Governance Group,80000,Low
+2026-02-28,SYN-001,Atlas Service Assistant,Operations,AI Enabled,Active,On Track,2026-06-30,,Automation Group,185000,High
+2026-02-28,SYN-002,Northstar Cost Insights,Finance,AI Enabled,Active,On Track,2026-05-31,,Finance Analytics,145000,High
+2026-02-28,SYN-003,Orion Demand Forecast,Supply Chain,Non-AI,Active,At Risk,2026-09-30,,Planning Group,220000,Medium
+2026-02-28,SYN-004,Beacon Knowledge Hub,People Services,AI Enabled,Active,On Track,2026-08-31,,People Analytics,95000,Low
+2026-02-28,SYN-005,Quartz Quality Monitor,Operations,AI Enabled,Done,On Track,2026-01-31,2026-01-24,Quality Group,130000,Medium
+2026-02-28,SYN-006,Meridian Client Insights,Customer Experience,Non-AI,On Hold,At Risk,2026-10-31,,Experience Group,170000,Medium
+2026-02-28,SYN-007,Harbor Risk Review,Legal,Non-AI,Proposed,On Track,2026-11-30,,Governance Group,80000,Low
+2026-02-28,SYN-008,Solstice Workflow Helper,Operations,Under Review,Proposed,On Track,2026-12-31,,Process Group,115000,Medium
+2026-03-31,SYN-001,Atlas Service Assistant,Operations,AI Enabled,Active,On Track,2026-06-30,,Automation Group,185000,High
+2026-03-31,SYN-002,Northstar Cost Insights,Finance,AI Enabled,Done,On Track,2026-05-31,2026-03-18,Finance Analytics,145000,High
+2026-03-31,SYN-003,Orion Demand Forecast,Supply Chain,AI Enabled,Active,On Track,2026-09-30,,Planning Group,220000,Medium
+2026-03-31,SYN-004,Beacon Knowledge Hub,People Services,AI Enabled,Active,At Risk,2026-08-31,,People Analytics,95000,Low
+2026-03-31,SYN-005,Quartz Quality Monitor,Operations,AI Enabled,Done,On Track,2026-01-31,2026-01-24,Quality Group,130000,Medium
+2026-03-31,SYN-006,Meridian Client Insights,Customer Experience,AI Enabled,Active,At Risk,2026-10-31,,Experience Group,170000,High
+2026-03-31,SYN-007,Harbor Risk Review,Legal,Non-AI,Active,On Track,2026-11-30,,Governance Group,80000,Low
+2026-03-31,SYN-008,Solstice Workflow Helper,Operations,AI Enabled,Active,On Track,2026-12-31,,Process Group,115000,Medium
+2026-03-31,SYN-009,Vector Claims Assistant,Finance,AI Enabled,Proposed,On Track,2026-12-31,,Finance Automation,160000,High
+2026-04-30,SYN-001,Atlas Service Assistant,Operations,AI Enabled,Done,On Track,2026-06-30,2026-04-15,Automation Group,185000,High
+2026-04-30,SYN-002,Northstar Cost Insights,Finance,AI Enabled,Done,On Track,2026-05-31,2026-03-18,Finance Analytics,145000,High
+2026-04-30,SYN-003,Orion Demand Forecast,Supply Chain,AI Enabled,Active,At Risk,2026-09-30,,Planning Group,220000,Medium
+2026-04-30,SYN-004,Beacon Knowledge Hub,People Services,AI Enabled,Active,At Risk,2026-08-31,,People Analytics,95000,Low
+2026-04-30,SYN-005,Quartz Quality Monitor,Operations,AI Enabled,Done,On Track,2026-01-31,2026-01-24,Quality Group,130000,Medium
+2026-04-30,SYN-006,Meridian Client Insights,Customer Experience,AI Enabled,Active,On Track,2026-10-31,,Experience Group,170000,Medium
+2026-04-30,SYN-007,Harbor Risk Review,Legal,Non-AI,Active,On Track,2026-11-30,,Governance Group,80000,Low
+2026-04-30,SYN-008,Solstice Workflow Helper,Operations,AI Enabled,Active,On Track,2026-12-31,,Process Group,115000,Medium
+2026-04-30,SYN-009,Vector Claims Assistant,Finance,AI Enabled,Active,On Track,2026-12-31,,Finance Automation,160000,High
+2026-04-30,SYN-010,Ember Contract Search,Legal,Under Review,Proposed,On Track,2026-12-31,,Legal Operations,105000,Medium
+2026-05-31,SYN-001,Atlas Service Assistant,Operations,AI Enabled,Done,On Track,2026-06-30,2026-04-15,Automation Group,185000,High
+2026-05-31,SYN-002,Northstar Cost Insights,Finance,AI Enabled,Done,On Track,2026-05-31,2026-03-18,Finance Analytics,145000,High
+2026-05-31,SYN-003,Orion Demand Forecast,Supply Chain,AI Enabled,Active,On Track,2026-09-30,,Planning Group,220000,Medium
+2026-05-31,SYN-004,Beacon Knowledge Hub,People Services,AI Enabled,Done,On Track,2026-08-31,2026-05-22,People Analytics,95000,Low
+2026-05-31,SYN-005,Quartz Quality Monitor,Operations,AI Enabled,Done,On Track,2026-01-31,2026-01-24,Quality Group,130000,Medium
+2026-05-31,SYN-006,Meridian Client Insights,Customer Experience,AI Enabled,Active,At Risk,2026-10-31,,Experience Group,170000,Medium
+2026-05-31,SYN-007,Harbor Risk Review,Legal,Non-AI,Active,At Risk,2026-11-30,,Governance Group,80000,Low
+2026-05-31,SYN-008,Solstice Workflow Helper,Operations,AI Enabled,Active,On Track,2026-12-31,,Process Group,115000,Medium
+2026-05-31,SYN-009,Vector Claims Assistant,Finance,AI Enabled,Active,On Track,2026-12-31,,Finance Automation,160000,High
+2026-05-31,SYN-010,Ember Contract Search,Legal,AI Enabled,Active,On Track,2026-12-31,,Legal Operations,105000,Medium
+2026-06-30,SYN-003,Orion Demand Forecast,Supply Chain,AI Enabled,Done,On Track,2026-09-30,2026-06-18,Planning Group,220000,Medium
+2026-06-30,SYN-004,Beacon Knowledge Hub,People Services,AI Enabled,Done,On Track,2026-08-31,2026-05-22,People Analytics,95000,Low
+2026-06-30,SYN-007,Harbor Risk Review,Legal,Non-AI,Active,At Risk,2026-11-30,,Governance Group,80000,Low
+2026-06-30,SYN-008,Solstice Workflow Helper,Operations,AI Enabled,Active,On Track,2026-12-31,,Process Group,115000,Medium
+2026-06-30,SYN-009,Vector Claims Assistant,Finance,AI Enabled,Done,On Track,2026-12-31,2026-06-25,Finance Automation,160000,High
+2026-06-30,SYN-010,Ember Contract Search,Legal,AI Enabled,Active,On Track,2026-12-31,,Legal Operations,105000,Medium
+2026-06-30,SYN-011,Prism Service Quality,Customer Experience,AI Enabled,Proposed,On Track,2026-12-31,,Experience Group,135000,Medium
